@@ -85,7 +85,7 @@
         <dependency>
             <groupId>commons-validator</groupId>
             <artifactId>commons-validator</artifactId>
-            <version>1.6</version>
+            <version>1.7</version>
             <exclusions>
                 <exclusion>
                     <groupId>xml-apis</groupId>
@@ -107,7 +107,7 @@
         <dependency>
             <groupId>com.onelogin</groupId>
             <artifactId>java-saml</artifactId>
-            <version>2.5.0</version>
+            <version>2.6.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
